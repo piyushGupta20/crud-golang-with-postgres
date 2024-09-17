@@ -1,0 +1,1 @@
+# i have created it with [medium blog](https://medium.com/readytowork-org/simple-restful-api-with-golang-using-gorm-and-gin-3e43d8e2dee1)
